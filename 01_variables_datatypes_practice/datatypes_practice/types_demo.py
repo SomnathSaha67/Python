@@ -1,0 +1,10 @@
+a=int(input("Enter a number: "))
+b=float(input("Enter a decimal number: "))
+c=input("Enter a string: ")
+d=bool(int(input("Enter 1 for True and 0 for False: ")))
+e=None
+print(f"Integer value: {a}, Type: {type(a)}")
+print(f"Float value: {b}, Type: {type(b)}")
+print(f"String value: {c}, Type: {type(c)}")
+print(f"Boolean value: {d}, Type: {type(d)}")
+print(f"None value: {e}, Type: {type(e)}")
