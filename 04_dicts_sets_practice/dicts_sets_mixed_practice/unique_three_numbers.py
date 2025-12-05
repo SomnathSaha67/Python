@@ -1,0 +1,5 @@
+unique_set=set()
+unique_set.add(int(input("Enter first number: ")))
+unique_set.add(int(input("Enter second number: ")))
+unique_set.add(int(input("Enter third number: ")))
+print(f"The unique numbers entered are: {unique_set}")
