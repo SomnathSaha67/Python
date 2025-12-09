@@ -1,0 +1,3 @@
+Alice: 9876543210, email=alice@example.com, city=Delhi
+Bob: 9123456780, email=bob@example.com, city=Mumbai
+Charlie: 9988776655, email=charlie1999@gmail.com, city=Bangalore, address=rahurtala, relation=co-worker, profession=intern
