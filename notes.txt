@@ -1,5 +1,2 @@
-I am mastering Python
-Then i will implement it into DSA
-I will start mastering C simultaneously
-Then i will implement both Python and C into DSA
-Then i will learn C++ along with Web Development
+2025-12-01 10:00 - Started learning Python.
+2025-12-02 18:30 - Practiced loops and functions.
