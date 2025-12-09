@@ -1,3 +1,5 @@
-Meeting at 10 AM
-Lunch with Sarah at 1 PM
-Project deadline on Friday
+I am learning Python
+Then i will implement it into DSA
+I will start learning C simultaneously
+Then i will implement both Python and C into DSA
+Then i will learn C++ along with Web Development
