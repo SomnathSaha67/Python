@@ -1,0 +1,11 @@
+Overwriting the beginning of the file using 'r+' mode.
+.
+All previous content has been deleted.
+New log entries can be added from this point onward.
+End of log.
+Appending a new log entry using append mode 'a'.
+Previous content remains intact.
+This is useful for adding new information without deleting existing data.
+End of appended log entry.
+Adding a new line using 'r+' mode.
+This line is added at the end of the existing content.
