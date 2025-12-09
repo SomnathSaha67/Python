@@ -7,7 +7,7 @@ def search_word(file_path, word):
         else:
             return False
 word=input("Enter the word you want to search in the file: ")
-found = search_word("notes.txt", word.strip().lower()+word.strip().upper()+word.strip().capitalize())
+found = search_word("notes.txt", word)
 if found:
     print("The word was found in the file.")
 else:
