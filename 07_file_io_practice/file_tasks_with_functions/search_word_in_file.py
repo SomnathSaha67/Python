@@ -2,7 +2,7 @@ def search_word(file_path, word):
     """Searches for a specific word in the given file and returns the line numbers where it is found."""
     with open(file_path, 'r') as file:
         content=file.read()
-        if word in content:
+        if word in content.strip().lower() or word in content.strip().upper() or word in content.strip().capitalize():
             return True
         else:
             return False
