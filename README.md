@@ -4,16 +4,27 @@
 **Start Date:** December 25, 2025  
 
 ## 📅 Progress Tracker
-- [x] **Dec 25:** Basics (5/5) + Conditionals (10/10) ✅
+- [x] **Dec 25:** Chapters 1-12 (Basics + Conditionals) ✅
+- [x] **Today:** Chapters 13-20 (Strings + Loops + Nested Loops) ✅
 
 ## 📂 Repository Structure
-```
-01-basics/          → 5 problems
-02-conditionals/    → 10 problems
-03-loops/           → Coming soon
-04-functions/       → Coming soon
-05-data_structures/ → Coming soon
-```
 
-## 🎯 Next Up
-- **Loops** (while, for, range, break, continue)
+### ✅ Completed: 
+- **01-basics/** → 5 problems (Chapters 1-6)
+- **02-conditionals/** → 6 problems (Chapters 7-12)
+- **03-strings/** → 8 problems (Chapters 13-15) 
+- **04-loops/** → 15 problems (Chapters 16-20) 
+
+### 🔜 Coming Next:
+- **05-collections/** (Lists, Tuples, Sets)
+- **06-dictionaries/**
+- **07-functions/**
+
+## 📊 Practice Problems Total:  34
+- [x] Basics: 5/5
+- [x] Conditionals:  6/6
+- [X] Strings: 8/8  
+- [X] Loops:  15/15 
+
+## 🚀 Next Up
+- **Chapter 21+:** Collections (Lists, Tuples, Sets)
