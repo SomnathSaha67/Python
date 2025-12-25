@@ -1,0 +1,6 @@
+temp_cel=float(input("Enter temperature in Celsius: "))
+convert_fah=round((temp_cel * 9/5) + 32, 2)
+temp_fah=float(input("Enter temperature in Fahrenheit: "))
+convert_cel=round((temp_fah - 32) * 5/9, 2)
+print(f"{temp_cel}°C is equal to {convert_fah}°F")
+print(f"{temp_fah}°F is equal to {convert_cel}°C")
