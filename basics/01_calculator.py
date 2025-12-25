@@ -13,6 +13,6 @@ elif operator=='*':
 elif operator=='/':
     if num2!=0:
         result=num1/num2
-        print(f"{num1} / {num2} = {result}")
+        print(f"{num1} / {num2} = {round(result, 3)}")
     else:
         print("Error: Division by zero is not allowed.")

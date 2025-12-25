@@ -1,0 +1,1 @@
+length=float(input())
