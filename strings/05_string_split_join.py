@@ -1,0 +1,5 @@
+sentence=input("Enter a sentence: ")
+split_words=sentence.split()
+print(f"List of words: {split_words}")
+joined_sentence=' '.join(split_words)
+print(f"Rejoined sentence: {joined_sentence}")
