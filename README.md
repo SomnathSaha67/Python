@@ -2,7 +2,6 @@
 
 **Goal:** Learn Python for Machine Learning  
 **Start Date:** December 25, 2025  
-**Resource:** [Bro Code Python Tutorial](https://youtu.be/ix9cRaBkVe0? si=J_bDyAnPC1orCOVr)
 
 ## 📅 Progress Tracker
 - [x] **Dec 25:** Basics (5/5) + Conditionals (10/10) ✅
