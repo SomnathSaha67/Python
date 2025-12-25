@@ -1,8 +1,0 @@
-num_ele=int(input("Enter the number of elements in the list: "))
-fruits=[]
-for i in range(num_ele):                
-    fruit=input(f"Enter fruit {i+1}: ")
-    fruits.append(fruit) 
-print("The indices and values in the fruit list are:")
-for index in range(len(fruits)):
-    print(f"Index {index}: {fruits[index]}")

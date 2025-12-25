@@ -1,3 +1,0 @@
-This file is opened in 'w+' mode, which allows both writing and reading.
-The file is truncated to zero length when opened.
-You can write new content and then read it back.

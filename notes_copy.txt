@@ -1,5 +1,0 @@
-I am learning Python
-Then i will implement it into DSA
-I will start learning C simultaneously
-Then i will implement both Python and C into DSA
-Then i will learn C++ along with Web Development
