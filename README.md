@@ -5,26 +5,33 @@
 
 ## 📅 Progress Tracker
 - [x] **Dec 25:** Chapters 1-12 (Basics + Conditionals) ✅
-- [x] **Today:** Chapters 13-20 (Strings + Loops + Nested Loops) ✅
+- [x] **Day 2:** Chapters 13-20 (Strings + Loops) ✅
+- [x] **Today:** Chapters 21-30 (Collections + Dictionaries + Random) ✅
 
 ## 📂 Repository Structure
 
 ### ✅ Completed: 
-- **01-basics/** → 5 problems (Chapters 1-6)
-- **02-conditionals/** → 6 problems (Chapters 7-12)
-- **03-strings/** → 8 problems (Chapters 13-15) 
-- **04-loops/** → 15 problems (Chapters 16-20) 
+- **01-basics/** → 5 problems
+- **02-conditionals/** → 6 problems
+- **03-strings/** → 3 problems
+- **04-loops/** → 5 problems
+- **05-collections/** → 10 problems ← NEW
+- **06-dictionaries/** → 8 problems ← NEW
+- **07-random/** → 10 problems ← NEW
 
 ### 🔜 Coming Next:
-- **05-collections/** (Lists, Tuples, Sets)
-- **06-dictionaries/**
-- **07-functions/**
+- **08-functions/**
+- **09-file_handling/**
+- **10-oop/**
 
-## 📊 Practice Problems Total:  34
+## 📊 Practice Problems Total: 47
 - [x] Basics: 5/5
 - [x] Conditionals:  6/6
-- [X] Strings: 8/8  
-- [X] Loops:  15/15 
+- [x] Strings: 3/3
+- [x] Loops:  5/5
+- [x] Collections: 10/10 
+- [x] Dictionaries:  7/7
+- [x] Random: 9/9 
 
 ## 🚀 Next Up
-- **Chapter 21+:** Collections (Lists, Tuples, Sets)
+- **Chapter 31+:** Functions (def, parameters, return, args, kwargs)
