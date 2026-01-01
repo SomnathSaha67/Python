@@ -24,7 +24,7 @@
 - **09-file_handling/**
 - **10-oop/**
 
-## 📊 Practice Problems Total: 47
+## 📊 Practice Problems Total: 45
 - [x] Basics: 5/5
 - [x] Conditionals:  6/6
 - [x] Strings: 3/3
