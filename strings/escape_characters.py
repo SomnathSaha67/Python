@@ -1,0 +1,1 @@
+print(f"""Name:\tSomnath\nBranch:\tCSE\tAIML\nFavourite Language:\t\"Python\"""")
